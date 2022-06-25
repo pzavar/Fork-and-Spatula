@@ -25,7 +25,7 @@
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.12",
     "morgan": "~1.9.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "nodejs-base64": "^1.0.3",
     "nodemailer": "^6.4.11",
     "passport": "^0.4.1",
