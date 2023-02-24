@@ -4,7 +4,7 @@ Fork & Spatula was founded by a group of like-minded UCLA students who always se
 # Snapshots
 
 ![fork-and-spatula-1](https://user-images.githubusercontent.com/30095041/221298426-c7d0fe79-4768-4b04-800d-dc3b4cbec459.jpg)
-![fork-and-spatula-2](https://user-images.githubusercontent.com/30095041/221298446-156c209c-1fce-4b93-b5f5-5aef6c7c9eae.jpg)
+![fork-and-spatula-4](https://user-images.githubusercontent.com/30095041/221313480-414b95b9-a989-4a1c-8a24-0c21310d21db.jpg)
 ![fork-and-spatula-3](https://user-images.githubusercontent.com/30095041/221298457-1aff7cce-385c-4f59-9826-34e7742ac507.jpg)
 
 # Run this project
